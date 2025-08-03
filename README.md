@@ -1,60 +1,98 @@
-LeetCode Solutions 🚀
-This repository contains a curated subset of my solved problems from LeetCode. Each problem includes both the problem link and my solution implementation(s).
-📁 Repository Structure
-├── Problem_Name/
-│   ├── problem_link.md          # Link to the original LeetCode problem
-│   ├── solution_approach1.java  # Primary solution
-│   ├── solution_approach2.java  # Alternative solution (if applicable)
-│   └── README.md                # Problem description and approach explanation
-🎯 About This Repository
+# LeetCode Solutions 🚀
 
-Curated Selection: This represents a subset of my LeetCode solutions, focusing on problems that demonstrate various algorithms and data structures
-Multiple Approaches: For problems that can be solved using different techniques, I provide multiple solution files
-Clean Code: All solutions follow clean coding practices with proper commenting and variable naming
-Problem Links: Each problem folder contains a direct link to the original LeetCode problem for reference
+This repository contains a curated subset of my solved problems from [LeetCode](https://leetcode.com/).  
+Each problem includes both the original problem link and my solution implementation(s).
 
-🔧 Languages Used
+---
 
-C++ - Primary language for solutions
-Additional languages may be included for specific problems
+## 📁 Repository Structure
+```
+LeetCode-Solutions/
+├── Easy/
+│ ├── Problem A/
+│ │ ├── Solution.cpp
+│ │ └── linkProblem.txt
+│ └── Problem B/
+│ ├── Solution.cpp
+│ └── linkProblem.txt
+├── Medium/
+│ └── ...
+│
+├── Hard/
+│ └── ...
+```
+### Legend
+- 📁 **Easy/Medium/Hard** - Problems organized by LeetCode difficulty
+- 💻 **Solution.cpp** - Main solution implementation
+- 🔗 **linkProblem.txt** - Direct link to original problem
+- 🎯 **Another_Solution.cpp** - Alternative solution approaches
+---
 
-📊 Problem Categories
-The solutions cover various topics including:
+## 🎯 About This Repository
 
-Array & String Manipulation
-Dynamic Programming
-Tree & Graph Algorithms
-Sorting & Searching
-Two Pointers & Sliding Window
-Backtracking
-Greedy Algorithms
-Linked Lists
-Stack & Queue
-Hash Tables
+- **Curated Selection:** Focuses on problems that showcase different algorithms and data structures.
+- **Multiple Approaches:** Some problems include several solutions using different techniques.
+- **Clean Code:** Consistent style with meaningful variable names and helpful comments.
+- **Direct Problem Links:** Each folder includes a link to the official LeetCode problem.
 
-🚀 How to Use
+---
 
-Browse through the problem folders
-Check the problem_link.md file for the original problem statement
-Review the solution file(s) for implementation details
-Each solution includes time and space complexity analysis in comments
+## 🔧 Languages Used
 
-📈 Progress
+- **C++** – Primary language for solutions  
+- Other languages may be included for specific cases
+
+---
+
+## 📊 Problem Categories
+
+Covered topics include:
+
+- Array & String Manipulation  
+- Dynamic Programming  
+- Tree & Graph Algorithms  
+- Sorting & Searching  
+- Two Pointers & Sliding Window  
+- Backtracking  
+- Greedy Algorithms  
+- Linked Lists  
+- Stack & Queue  
+- Hash Tables  
+
+---
+
+## 🚀 How to Use
+
+1. Browse through the problem folders.
+2. Open `problem_link.md` to view the original problem on LeetCode.
+3. Review the solution file(s) for implementation and comments.
+4. Most solutions include time and space complexity analysis.
+
+---
+
+## 📈 Progress
+
 This repository is continuously updated as I solve more problems and refine existing solutions.
-🤝 Contributing
-While this is a personal practice repository, feel free to:
 
-Suggest optimizations
-Point out any issues
-Discuss alternative approaches
+---
 
-📞 Connect With Me
+## 🤝 Contributing
 
-LeetCode Profile: Ibrahim_ade22
-LinkedIn: https://www.linkedin.com/in/ibrahim-adel-864aa8224
-Email: ibrahim.adel233@gmail.com
+Although this is a personal practice repo, feel free to:
 
+- Suggest optimizations  
+- Point out issues  
+- Discuss alternative solutions  
 
-⭐ Star this repository if you find it helpful!
+---
 
-"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie
+## 📞 Connect With Me
+
+- **LeetCode:** [Ibrahim_ade22](https://leetcode.com/Ibrahim_ade22)  
+- **LinkedIn:** [ibrahim-adel-864aa8224](https://www.linkedin.com/in/ibrahim-adel-864aa8224)  
+- **Email:** ibrahim.adel233@gmail.com  
+
+---
+
+⭐ *Star this repository if you find it helpful!*  
+> “The only way to learn a new programming language is by writing programs in it.” – Dennis Ritchie
