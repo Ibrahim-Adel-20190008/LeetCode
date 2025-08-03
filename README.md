@@ -51,7 +51,7 @@ Discuss alternative approaches
 📞 Connect With Me
 
 LeetCode Profile: Ibrahim_ade22
-LinkedIn: Your LinkedIn
+LinkedIn: https://www.linkedin.com/in/ibrahim-adel-864aa8224
 Email: ibrahim.adel233@gmail.com
 
 
